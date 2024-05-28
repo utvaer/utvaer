@@ -1,5 +1,5 @@
-<h1>Hi, salut 👋🏻</h1>
-<p>Welcome, I'm Tiffany🇨🇭🇳🇴, a frontend developer based in Trondheim 🇳🇴</p>
+<h1>Salut 👋🏻</h1>
+<p>I'm Tiffany🇨🇭🇳🇴, a developer based in Trondheim 🇳🇴</p>
 
 <h2>About me</h2>
 <p>👩🏻‍💻 Currently working at SpareBank1 Utvikling</p>
